@@ -22,7 +22,7 @@ function power(base, exponent) {
 function changeVocals(str) {
     for (let i = 0; i < str.length; i++) {
         if (str[i] == 'a') str[i] = '*'
-        str[0] = 'hallo'
+        str = str[0]
     }
     return str
 }

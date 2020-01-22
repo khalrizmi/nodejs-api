@@ -1,2 +1,0 @@
-// menambahkan teks
-// tambah lagi
